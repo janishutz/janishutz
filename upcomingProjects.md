@@ -1,3 +1,6 @@
+# NO MORE UPDATES
+This file will no longer be updated. Please visit my [blog](https://blog.janishutz.com/) for updates on projects!
+
 # Upcoming projects
 - A few private projects
 - Porting my QR & Barcode Insight iOS app to Android
