@@ -10,6 +10,7 @@
 - Blog: https://blog.janishutz.com
 - Store: https://store.janishutz.com
 - Accounts: https://id.janishutz.com
+- Personal Git: https://git.janishutz.com/janishutz
 
 <div id="donate" align="center">
     <a href="https://store.janishutz.com/donate" target="_blank"><img src="https://store-cdn.janishutz.com/static/support-me.jpg" width="150px"></a>
