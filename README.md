@@ -4,7 +4,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=janishutz&show_icons=true&theme=tokyonight" alt="Janis Hutz's GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janishutz&langs_count=10&layout=compact" alt="Top Languages"><br>
 </div>
-Many of the projects I currently work on are private repos on my personal git, thus the low commit count here!
+
+## Own git instance
+Many of the projects I currently work on are private repos on my personal git, thus the low commit count here! There are also some nice utilities available there!
 
 ## Links
 - Website: https://janishutz.com
