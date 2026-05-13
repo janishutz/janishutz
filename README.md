@@ -1,8 +1,8 @@
 # Hi there, I'm Janis Hutz 👋
 
 <div id="main" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janishutz&show_icons=true&theme=tokyonight" alt="Janis Hutz's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janishutz&langs_count=10&layout=compact" alt="Top Languages"><br>
+  <img src="./profile/stats.svg" alt="Janis Hutz's GitHub Stats">
+  <img src="./profile/top-langs.svg" alt="Top Languages"><br>
 </div>
 
 ## Own git instance
