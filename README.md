@@ -4,6 +4,12 @@
   <img src="./profile/stats.svg" alt="Janis Hutz's GitHub Stats">
   <img src="./profile/top-langs.svg" alt="Top Languages"><br>
 </div>
+
+_______
+**Coding Time Stats**
+![Last 30 Days](https://wakapi.janishutz.com/api/badge/janishutz/janishutz/interval:30_days?label=last%2030d)
+![Total since 2026-05-30](https://wakapi.janishutz.com/api/badge/janishutz/janishutz/interval:any?label=Total%20since%202026-05-30&color=blue)
+
 <div id="main" align="center">
   <img src="./profile/wakatime.svg" alt="Janis Hutz's Coding Time since 2026-05-30">
 </div>
