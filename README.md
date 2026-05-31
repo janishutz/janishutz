@@ -4,15 +4,18 @@
   <img src="./profile/stats.svg" alt="Janis Hutz's GitHub Stats">
   <img src="./profile/top-langs.svg" alt="Top Languages"><br>
 </div>
+<div id="main" align="center">
+  <img src="./profile/wakatime.svg" alt="Janis Hutz's Coding Time since 2026-05-30">
+</div>
 
 ## Own git instance
-Many of the projects I currently work on are private repos on my personal git, thus the low commit count here! There are also some nice utilities available there!
+Many of the projects I currently work on are private and public repos on my [personal git](https://git.janishutz.com/janishutz)! There are also some nice utilities available there!
 
 ## Links
 - Website: https://janishutz.com
 - Blog: https://blog.janishutz.com
 - Store: https://store.janishutz.com
-- Accounts: https://id.janishutz.com
+- Accounts: https://account.janishutz.com
 - Personal Git: https://git.janishutz.com/janishutz
 
 <div id="donate" align="center">
