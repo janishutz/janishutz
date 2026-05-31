@@ -35,7 +35,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: wakatime
-          options: username=janishutz&layout=compact&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Coding+Time+%28Since-2026-05-30%29&api_domain=${{ vars.WAKAPI_URL }}
+          options: username=janishutz&layout=compact&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Coding+Time+%28Since+2026-05-30%29&api_domain=${{ vars.WAKAPI_URL }}
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
