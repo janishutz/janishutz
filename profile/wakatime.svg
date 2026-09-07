@@ -441,7 +441,7 @@
             y="0"
             width="0.13949999999999999"
             height="8"
-            fill="#d1dbe0"
+            fill="#858585"
           />
         
           <rect
@@ -451,7 +451,7 @@
             y="0"
             width="0.13949999999999999"
             height="8"
-            fill="#858585"
+            fill="#d1dbe0"
           />
         
           <rect
@@ -763,16 +763,16 @@
     </g>
   
     <g transform="translate(230, 400)">
-      <circle cx="5" cy="6" r="5" fill="#d1dbe0" />
+      <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        INI - 0 hrs 5 mins
+        Gitattributes - 0 hrs 5 mins
       </text>
     </g>
   
     <g transform="translate(25, 425)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <circle cx="5" cy="6" r="5" fill="#d1dbe0" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Gitattributes - 0 hrs 5 mins
+        INI - 0 hrs 5 mins
       </text>
     </g>
   
