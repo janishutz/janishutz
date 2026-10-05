@@ -1,10 +1,4 @@
 # Hi there, I'm Janis Hutz 👋
-About me:
-- I enjoy learning new things, especially in the world of Computer Science
-- I am a Computer Science Student at ETH Zurich
-- I do NOT use any Pretend Intelligence (colloquially known as AI) for coding at all
-- Learn more [here](https://janishutz.com/about/aboutme)
-
 <div id="main" align="center">
   <img src="./profile/stats.svg" alt="Janis Hutz's GitHub Stats">
   <img src="./profile/top-langs.svg" alt="Top Languages"><br>
@@ -18,6 +12,12 @@ _______
 <div id="main" align="center">
   <img src="./profile/wakatime.svg" alt="Janis Hutz's Coding Time since 2026-05-30">
 </div>
+
+About me:
+- I enjoy learning new things, especially in the world of Computer Science
+- I am a Computer Science Student at ETH Zurich
+- I do NOT use any Pretend Intelligence (colloquially known as AI) for coding at all
+- Learn more [here](https://janishutz.com/about/aboutme)
 
 ## Own git instance
 Many of the projects I currently work on are private and public repos on my [personal git](https://git.janishutz.com/janishutz)! There are also some nice utilities available there!
