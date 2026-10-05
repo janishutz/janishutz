@@ -1,4 +1,9 @@
 # Hi there, I'm Janis Hutz 👋
+About me:
+- I enjoy learning new things, especially in the world of Computer Science
+- I am a Computer Science Student at ETH Zurich
+- I do NOT use any Pretend Intelligence (colloquially known as AI) for coding at all
+- Learn more [here](https://janishutz.com/about/aboutme)
 
 <div id="main" align="center">
   <img src="./profile/stats.svg" alt="Janis Hutz's GitHub Stats">
