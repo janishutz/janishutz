@@ -13,10 +13,10 @@ _______
   <img src="./profile/wakatime.svg" alt="Janis Hutz's Coding Time since 2026-05-30">
 </div>
 
-About me:
+## About me:
 - I enjoy learning new things, especially in the world of Computer Science
 - I am a Computer Science Student at ETH Zurich
-- I do NOT use any Pretend Intelligence (colloquially known as AI) for coding at all
+- I do ***NOT*** use any Pretend Intelligence (colloquially known as AI) AT ALL
 - Learn more [here](https://janishutz.com/about/aboutme)
 
 ## Own git instance
