@@ -21,6 +21,7 @@ _______
 
 ## Own git instance
 Many of the projects I currently work on are private and public repos on my [personal git](https://git.janishutz.com/janishutz)! There are also some nice utilities available there!
+The low commit count on years gone by is attributed to me moving some of the projects I created there to my own git instance and deleting them here.
 
 ## Links
 - Website: https://janishutz.com
