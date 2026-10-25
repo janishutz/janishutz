@@ -228,7 +228,7 @@
           data-testid="lang-progress"
           x="248.06999999999996"
           y="0"
-          width="11.92"
+          width="11.93"
           height="8"
           fill="#c6538c"
         />
@@ -239,7 +239,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3D6117" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TeX 55.76%
+        TeX 55.75%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
