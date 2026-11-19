@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Janis Hutz&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 43, Total Commits  (last year) : 1821, Total PRs: 97, Total Issues: 135, Contributed to (last year): 33</desc>
+        <desc id="descId">Total Stars Earned: 43, Total Commits  (last year) : 1841, Total PRs: 100, Total Issues: 137, Contributed to (last year): 34</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 69.86227300000488;
+        stroke-dashoffset: 68.88286565283084;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >97</text>
+      >100</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >135</text>
+      >137</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >33</text>
+      >34</text>
     </g>
   </g>
     </svg>
